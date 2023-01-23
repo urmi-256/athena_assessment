@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "@next/font": "13.1.4",
+    "cloudinary-react": "^1.8.1",
+    "framer-motion": "^8.5.0",
     "next": "13.1.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-intersection-observer": "^9.4.1"
   }
 }
